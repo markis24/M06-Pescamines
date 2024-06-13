@@ -1,0 +1,17 @@
+#taulell {
+    margin-top: 20px;
+}
+table {
+    border-collapse: collapse;
+}
+td {
+    width: 20px;
+    height: 20px;
+    border: 1px solid black;
+    text-align: center;
+    vertical-align: middle;
+}
+td img {
+    width: 20px;
+    height: 20px;
+}
